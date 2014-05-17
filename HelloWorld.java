@@ -5,5 +5,5 @@ public class HelloWorld implements Runnable{
 }
 
 void run(){
-	System.out.println("Hello World");
+	System.out.println("Hello Github World");
 }
